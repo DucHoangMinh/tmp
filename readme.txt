@@ -2,7 +2,7 @@
 
 DESCRIPTION:
 
-DuckDuck is a carefully crafted and modern HTML website template designed for freelancers, social 
+Hoang Ha Phuong is a carefully crafted and modern HTML website template designed for freelancers, social 
 media managers, and marketing consultants who help businesses and companies improve their online 
 presence and establish long-lasting relationships with their communities. It is an excellent tool 
 for telling people about your skills and credentials, services, and other offerings, giving them 
@@ -13,7 +13,7 @@ a better idea of who you are.
 
 LICENSE:
 
-This free resource is provided by DuckDuck.com and is free to use in 
+This free resource is provided by Hoang Ha Phuong.com and is free to use in 
 both personal and commercial projects.
 
 
@@ -21,9 +21,9 @@ Rights:
 -------
 
 You are permitted to use this free resource in any number of personal and commercial projects for 
-yourself or a client. You may modify the resource according to your requirements and include them 
+me or a client. You may modify the resource according to your requirements and include them 
 in your projects under the following condition - you MUST give appropriate credit, provide an 
-attribution link to DuckDuck.com.
+attribution link to Hoang Ha Phuong.com.
 
 
 Prohibitions:
@@ -31,14 +31,14 @@ Prohibitions:
 
 You are not permitted to resell or redistribute(even for free) the resource "as is" without 
 prior consent. If you would like to republish or promote this resource on your site, please 
-link back to the appropriate resource page on DuckDuck.com where users can find the download 
+link back to the appropriate resource page on Hoang Ha Phuong.com where users can find the download 
 and not directly to the download zip file.
 
 
 Attribution: 
 ------------
 
-You must include a credit link to our website(https://www.DuckDuck.com) somewhere on your site. 
+You must include a credit link to our website(https://www.Hoang Ha Phuong.com) somewhere on your site. 
 We prefer the footer credit that comes with the template but you are still free to move it 
 somewhere else.
 
@@ -58,7 +58,7 @@ credit removal fee of 10 USD through Paypal. This will allow you to use a single
 template attribution/credit link free on ONE DOMAIN name.
 
 You can send your payments through Paypal to this address: ealigam@gmail.com or
-visit our attribution removal page: https://www.DuckDuck.com/attribution-free/ 
+visit our attribution removal page: https://www.Hoang Ha Phuong.com/attribution-free/ 
 and click the pay button on the page.
 
 If possible, kindly send us the site's url where the template is being used. 
@@ -70,7 +70,7 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 SUPPORT:
     
-Since DuckDuck is distributed for free, support is not offered. DuckDuck is coded according 
+Since Hoang Ha Phuong is distributed for free, support is not offered. Hoang Ha Phuong is coded according 
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum web development experience, you can easily modify the template. 
 However, If you're still new to HTML and CSS, I suggest that you visit the 
@@ -116,7 +116,7 @@ Replace the value of mailChimpURL with your mailchimp url.
 GET THE LATEST VERSION:
 
 We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(https://www.DuckDuck.com/)
+always download the template files directly on our website(https://www.Hoang Ha Phuong.com/)
 
 
 
@@ -146,6 +146,6 @@ Javascript Files:
 -------------------------------------------------------------------------------------------------------
 
 
-Thanks for downloading from DuckDuck :)
+Thanks for downloading from Hoang Ha Phuong :)
 
 
